@@ -11,3 +11,6 @@ Credits:
 
 
 This is a debug chatting app made with [**Firebase**](https://firebase.google.com/?gclid=EAIaIQobChMIrbbIgIiU-AIVj5hmAh13OgUaEAAYASAAEgI9YvD_BwE&gclsrc=aw.ds) and [**Flutter**](https://flutter.dev/) and is succesfully running.
+
+
+<img width="397" alt="Screenshot 2023-03-21 at 13 30 40" src="https://user-images.githubusercontent.com/79924017/226604700-d59ee8e2-a49a-498e-9f8b-c3e1a448eb60.png">
